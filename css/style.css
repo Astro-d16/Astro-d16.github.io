@@ -1,0 +1,58 @@
+header{
+    background-color: rgb(255, 245, 152);
+}
+
+header img{
+    width: 175px;
+}
+
+body{
+    background-color: rgb(255, 255, 226);
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+nav{
+    background-color: rgb(154, 201, 255);
+}
+
+nav ul{
+    font-family: 'cursive', sans-serif;
+    display: flex;
+    text-decoration: none;
+}
+
+li{
+    gap: 40px;
+    padding: 30px;
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+    line-height: 25px;
+    color: rgb(158, 99, 214);
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    display: inline-block;
+}
+
+main{
+    margin-top: auto;
+    background-color: rgb(255, 245, 152);
+}
+
+main img{
+    width: 100px;
+}
+
+footer{
+    margin-top: 15px;
+    background-color: rgb(190, 190, 190);
+    padding: 2px;
+}
